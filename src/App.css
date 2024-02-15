@@ -27,7 +27,25 @@
 .App-link {
   color: #61dafb;
 }
-
+.App-Lista {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: blue;
+  border: 2px solid black;
+  border-radius: 2cm;
+}
+ul {
+  list-style-type: none;
+}
+.Titulo {
+  color: "white";
+  padding: "10px";
+  background-color: #282c34;
+  text-align: center;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

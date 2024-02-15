@@ -1,0 +1,13 @@
+[
+  { "hora": "2pm", "tarea": "Comprar leche", "terminada": false, "id": 1 },
+  { "hora": "3pm", "tarea": "Comprar pan", "terminada": false, "id": 2 },
+  { "hora": "4pm", "tarea": "lavar auto", "terminada": false, "id": 3 },
+  { "hora": "4pm", "tarea": "lavar auto", "terminada": false, "id": 4 },
+  { "hora": "4pm", "tarea": "lavar auto", "terminada": false, "id": 5 },
+  { "hora": "4pm", "tarea": "lavar auto", "terminada": false, "id": 6 },
+  { "hora": "6pm", "tarea": "lavar auto", "terminada": false, "id": 7 },
+  { "hora": "7pm", "tarea": "lavar auto", "terminada": false, "id": 8 },
+  { "hora": "8pm", "tarea": "lavar cosas", "terminada": false, "id": 9 },
+  { "hora": "4pm", "tarea": "lavar auto", "terminada": false, "id": 10 },
+  { "hora": "4pm", "tarea": "etc", "terminada": false, "id": 11 }
+]
